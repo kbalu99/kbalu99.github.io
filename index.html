@@ -61,14 +61,14 @@
     posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
     }).then(function(pose){
-      console.log(pose);
+      
       poseresults = pose;
+      for (var i = 0; i < poseresults.length; i++) {
+      console.log(poseresults[i].position);      
+    }
     })
   </script>
   <script>
-    for (var i = 0; i < pose_results.length; i++) {
-      console.log(poseresults[i].position);
-      
-    }
+    
   </script>
 </html>
