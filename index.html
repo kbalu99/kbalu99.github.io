@@ -57,9 +57,9 @@
     var imageElement = document.getElementById('cat');
 
     posenet.load().then(function(net){
-      return net.estimateMultiplePoses(imageElement, imageScaleFactor, flipHorizontal, outputStride, maxPoseDetections)
-    }).then(function(poses){
-      console.log(poses);
+      return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
+    }).then(function(pose){
+      console.log(pose);
     })
   </script>
 </html>
