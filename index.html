@@ -45,4 +45,18 @@ if (navigator.mediaDevices.getUserMedia) {
  
 </script>
 </body>
+  <script>
+    var imageScaleFactor = 0.5;
+    var flipHorizontal = false;
+    var outputStride = 16;
+    var maxPoseDetections = 2;
+
+    var imageElement = document.getElementById('cat');
+
+    posenet.load().then(function(net){
+      return net.estimateMultiplePoses(imageElement, 0.5, flipHorizontal, outputStride, maxPoseDetections)
+    }).then(function(poses){
+      console.log(poses);
+    })
+  </script>
 </html>
