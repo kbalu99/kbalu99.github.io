@@ -1,143 +1,35 @@
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@0.12.4"> </script> 
-
- 
- 
-
- 
- <video id="myVideo" width="160" height="120" style="border: 1px solid #ddd;"></video><br>
-
- 
- 
- 
- 
-
-<select size="1" id="myCheck">
- <option value="environment">Rear Mobile Camera
- </option><option value="user">Front Mobile Camera
-</option></select>
-<input type="button" value="Activate WebCam" onclick="{getVideo()}"> <br>
-<input type="button" value="get Pic" onclick="{takeSnapshot()}">
-Take snapshot every <input type="number" id="myInterval" value="3000" size="5"> milliseconds
-<input type="button" value="Auto" onclick="{takeAuto()}">
-<input type="button" value="Stop Auto" onclick="{clearInterval(myStoredInterval)}">
- 
-
-
- 
- 
- 
-
- 
-
-
- <!-- ************* Next we define the Javascript inside a web element so that the page can be refreshed dynamically **************-->
- 
- <!--  ************* The entire next line can be replaced with the <script> tag for a more conventional approch. ****************** -->
-
-<style id="myButton124" onload="{document.getElementById('myButton124').click()}" onclick="{
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-   
-                                                                                             
-                                                                                             
-                                                                                       
-                                                                                             
-
-                                                                                             
-///////////////////////////////////// webcam stuff /////////////////////////////////////                                                                                             
- 
-                                                                                             
-  var myVideoStream = document.getElementById('myVideo')     // make it a global variable
-  var myStoredInterval = 0
-
-   // navigator.getMedia({video: true, audio: false},
-   //  navigator.getMedia({video: { facingMode: 'environment' }, audio: false},
-                                                                                             
-  getVideo = async function() {  
-  //const myCheckElement = document.getElementById('myCheck').checked
-
-  //const myCamera = 'environment'  // rear facing only if mobile
-  const myCamera = await document.getElementById('myCheck').value
-  //if (myCheckElement){  
-   // alert('worked inside if statment ')                                                                                           
-   // myCamera = 'user'  // forward facing
-  //}
-                                                                                        
-  navigator.getMedia = navigator.getUserMedia || navigator.webkitGetUserMedia || navigator.mozGetUserMedia || navigator.msGetUserMedia;
-  navigator.getMedia({video: { facingMode: myCamera }, audio: false},
-                     
-    function(stream) {
-      myVideoStream.srcObject = stream   
-      myVideoStream.play();
-  }, 
-                     
-   function(error) {
-     alert('webcam not working');
-  });
-}
-
-                                                                                             
-  takeSnapshot = async function(){                                                                                           
-   var myCanvasElement = document.getElementById('myReshapeCanvas');
-   var myCTX = myCanvasElement.getContext('2d');
-   myCTX.drawImage(myVideoStream, 0, 0, myCanvasElement.width, myCanvasElement.height);
-}
-
-                                                                                             
-  takeAuto = async function(){                                                                                           
-     await takeSnapshot() // get snapshot right away then wait and repeat
-     await document.getElementById('myButtonTest').click()      
-    clearInterval(myStoredInterval)
-    myStoredInterval = setInterval(async function(){                                                                                         
-       await takeSnapshot()
-       await document.getElementById('myButtonTest').click()                                                                                       
-   }, document.getElementById('myInterval').value);        
-}
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta content="stuff, to, help, search, engines, not" name="keywords">
+<meta content="What this page is about." name="description">
+<meta content="Display Webcam Stream" name="title">
+<title>Display Webcam Stream</title>
   
-                                                                      
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-////////////////////////////////////////// END LOAD IMAGE ///////////////////////////////////////////////////////////
-                                                                                           
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-                                                                                             
-}"></style>
-<!-- If you replaced the <style> tag with a <script> tag don't forget to change the above line to just </script>  -->
-                                                                 
-
-
-
-                                                                                             
-                                                                                             
-                                                                                             
-
-
+<style>
+#container {
+    margin: 0px auto;
+    width: 500px;
+    height: 375px;
+    border: 10px #333 solid;
+}
+#videoElement {
+    width: 500px;
+    height: 375px;
+    background-color: #666;
+}
+</style>
+</head>
+  
+<body>
+<div id="container">
+    <video autoplay="true" id="videoElement">
+     
+    </video>
+</div>
+<script>
  
- 
- 
- 
- 
- 
- 
- 
- 
-<div id='myDiv7979'>...</div><br>
+</script>
+</body>
+</html>
