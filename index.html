@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -58,7 +57,7 @@
     var imageElement = document.getElementById('cat');
 
     posenet.load().then(function(net){
-      return net.estimateMultiplePoses(imageElement, 0.5, flipHorizontal, outputStride, maxPoseDetections)
+      return net.estimateMultiplePoses(imageElement, imageScaleFactor, flipHorizontal, outputStride, maxPoseDetections)
     }).then(function(poses){
       console.log(poses);
     })
