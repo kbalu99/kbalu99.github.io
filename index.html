@@ -32,6 +32,7 @@
 
 
 <img id='cat' src='./cat.jpg'/>
+  
 </body>
 <!--Commenting Video code for use later-->
   <script>
@@ -60,6 +61,13 @@
       return net.estimateMultiplePoses(imageElement, imageScaleFactor, flipHorizontal, outputStride, maxPoseDetections)
     }).then(function(poses){
       console.log(poses);
+      var pose_results = poses;
     })
+  </script>
+  <script>
+    for (var i = 0; i < pose_results.length; i++) {
+      console.log(pose_results[i].position);
+      
+    }
   </script>
 </html>
