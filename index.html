@@ -29,9 +29,7 @@
   
 <body>
 <!--Commenting Video code for use later-->
-<div id="container">
-     
-</div>
+
   
   
 <video autoplay="true" id="videoElement">     
@@ -63,6 +61,9 @@
     var outputStride = 16;
     var maxPoseDetections = 2;
     var poseresults;
+var canvas = document.getElementById('output');
+        var ctx = canvas.getContext('2d');
+
 
    
     var imageElement = document.getElementById('videoElement');
@@ -74,18 +75,22 @@
     }).then(function(pose){
       
       poseresults = pose;
+      for (var i = 0; i < 17; i++){
+          ctx.beginPath(); 
+         ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
+          ctx.drawImage(imageElement, 0, 0, 375, 375);
+         ctx.fillStyle = 'red'; 
+           ctx.fill();
+      }
       
     })
   </script>
   <script>
-        var canvas = document.getElementById('output');
-        var ctx = canvas.getContext('2d');
-        for (var i = 0; i < 17; i++){
-          ctx.beginPath(); 
-         ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
-          ctx.drawImage(video, 0, 0, 375, 375);
-         ctx.fillStyle = 'red'; 
-           ctx.fill();
+
+    
+  
+        
+        
       }
     
   </script>
