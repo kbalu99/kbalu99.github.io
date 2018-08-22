@@ -37,6 +37,9 @@
 <video autoplay="true" id="videoElement">     
       </video>
 <canvas id="output"> </canvas>
+  
+var canvas = document.getElementById('output');
+var ctx = canvas.getContext('2d');
 
 
 <!--<img id='cat' src='./cat.jpg'/>-->
@@ -64,9 +67,7 @@
     var maxPoseDetections = 2;
     var poseresults;
    
-    var canvas = document.getElementById('output');
-    var ctx = canvas.getContext('2d');
-    
+   
     var imageElement = document.getElementById('videoElement');
     imageElement.width = 375;
     imageElement.height = 375;
