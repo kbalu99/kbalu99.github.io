@@ -1,0 +1,1 @@
+- Distilling the knowledge in a neural network (2015), G. Hinton et al. `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/super-cheatsheet-machine-learning.pdf>`__
