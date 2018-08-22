@@ -62,14 +62,14 @@
      var poseresults;
  var canvas = document.getElementById('output');
          var ctx = canvas.getContext('2d');
- 
+    posenet.load();
     function recur(){
     var imageElement = document.getElementById('videoElement');
     imageElement.width = 375;
     imageElement.height = 375;
-     posenet.load().then(function(net){
+     posenet.net(){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
-    }).then(function(pose){
+    }.then(function(pose){
       
       poseresults = pose;
       ctx.drawImage(video, 0, 0, 375, 375);
