@@ -14,8 +14,8 @@
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 375px;
-    height: 375px;
+    width: 200px;
+    height: 200px;
     background-color: #666;
 }
 </style>
@@ -61,7 +61,9 @@
     var canvas = document.getElementById('output');
     var ctx = canvas.getContext('2d');
     
-    var imageElement = document.getElementById('cat');
+    var imageElement = document.getElementById('videoElement');
+    imageElement.width = 200;
+    imageElement.height = 200;
 
     posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
