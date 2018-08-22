@@ -28,9 +28,3 @@ Python
    
    
    
-   
-   
-.. rubric:: References
-
-.. [1] Python STD library - 
-.. [2] Python Language reference - https://docs.python.org/3.6/reference/index.html#reference-index
