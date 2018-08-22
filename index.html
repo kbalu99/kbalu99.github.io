@@ -9,13 +9,13 @@
 <style>
 #container {
     margin: 0px auto;
-    width: 500px;
+    width: 375px;
     height: 375px;
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 200px;
-    height: 200px;
+    width: 375px;
+    height: 375px;
     background-color: #666;
 }
 </style>
@@ -62,8 +62,8 @@
     var ctx = canvas.getContext('2d');
     
     var imageElement = document.getElementById('videoElement');
-    imageElement.width = 200;
-    imageElement.height = 200;
+    imageElement.width = 375;
+    imageElement.height = 375;
 
     posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
