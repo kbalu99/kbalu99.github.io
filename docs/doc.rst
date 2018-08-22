@@ -8,8 +8,8 @@ Documentation References
 
 .. raw:: html
    
-   <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html"><a href="https://docs.python.org/3.6/library/index.html">&#09;Python STD library</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html#reference-index"><a href="https://docs.python.org/3.6/reference/index.html#reference-index">&#09;Python Language reference</a>
+   [1] <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html"><a href="https://docs.python.org/3.6/library/index.html">&nbsp;&nbsp;&nbsp;&nbsp;Python STD library</a><br>
+   [2] <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html#reference-index"><a href="https://docs.python.org/3.6/reference/index.html#reference-index">&nbsp;&nbsp;&nbsp;&nbsp;Python Language reference</a>
    
 .. rubric:: References
 
