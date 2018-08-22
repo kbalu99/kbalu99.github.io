@@ -26,5 +26,11 @@ Python
 
    <img src="https://www.google.com/s2/favicons?domain=http://scikit-learn.org/stable/documentation.html" style="position:relative;top:10px"><a href="http://scikit-learn.org/stable/documentation.html">&nbsp;&nbsp;SCI-KIT Learn Docs</a><br>
    
+
+SQL / PL-SQL
+==============
+
+.. rubric:: Data Analysis / Data Visualization
+   
    
    
