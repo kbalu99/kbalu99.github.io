@@ -61,16 +61,19 @@
     var canvas = document.getElementById('output');
     var ctx = canvas.getContext('2d');
     
-    var imageElement = document.getElementById('cat');
+    var imageElement = document.getElementById('videoElement');
 
     posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
     }).then(function(pose){
       
       poseresults = pose;
-      for (var i = 0; i < pose.length; i++) {
-      console.log(pose[i].position);      
-    }
+      for (var i = 0; i < 17; i++){
+        ctx.beginPath(); 
+        ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,5, 0, 2 * Math.PI); 
+        ctx.fillStyle = 'red'; 
+        ctx.fill();
+      }
     })
   </script>
   <script>
