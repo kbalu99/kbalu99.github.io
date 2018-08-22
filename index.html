@@ -48,7 +48,16 @@
       navigator.mediaDevices.getUserMedia({video: true})
       .then(function(stream) {
         video.srcObject = stream;
-            var imageScaleFactor = 0.5;
+
+      })
+      .catch(function(err0r) {
+      console.log("Something went wrong!");
+   });
+   } 
+  </script>
+
+  <script>
+                var imageScaleFactor = 0.5;
     var flipHorizontal = false;
     var outputStride = 16;
     var maxPoseDetections = 2;
@@ -67,7 +76,7 @@ var canvas = document.getElementById('output');
     }).then(function(pose){
       
       poseresults = pose;
-      ctx.drawImage(video, 0, 0, 360, 360);
+      ctx.drawImage(video, 0, 0, 320, 320);
       for (var i = 0; i < 17; i++){
           ctx.beginPath(); 
          ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
@@ -91,14 +100,6 @@ var canvas = document.getElementById('output');
     setTimeout(recur,2000); 
    }
     recur();
-      })
-      .catch(function(err0r) {
-      console.log("Something went wrong!");
-   });
-   } 
-  </script>
-
-  <script>
 
   </script>
   <script>
