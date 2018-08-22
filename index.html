@@ -85,7 +85,7 @@ var canvas = document.getElementById('output');
       }
       
     })
-     var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
+     var adjKeyPoints = posenet.getAdjacentKeyPoints(pose.keypoints, 0.5);
      adjKeyPoints.forEach((keypoints) => {
        ctx.beginPath();
        ctx.moveTo(keypoints[0].position.x, keypoints[0].position.y);
