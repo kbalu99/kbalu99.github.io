@@ -79,7 +79,7 @@
            
           ctx.fillStyle = 'yellow'; 
             ctx.fill();
-         ctx.font = "5px Arial";
+         ctx.font = "10px Arial";
          ctx.fillText(poseresults.keypoints[i].part, poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y)
        }
         var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.3);
