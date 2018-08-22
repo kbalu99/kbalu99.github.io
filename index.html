@@ -1,105 +1,108 @@
 <html>
- <head>
- <meta charset="utf-8">
- <meta content="stuff, to, help, search, engines, not" name="keywords">
- <meta content="What this page is about." name="description">
- <meta content="Display Webcam Stream" name="title">
- <title>Display Webcam Stream</title>
-   
-<style>
-#container {
-    margin: 0px auto;
-    width: 375px;
-    height: 375px;
-    border: 10px #333 solid;
-}
-#videoElement {
-    width: 375px;
-    height: 375px;
-    background-color: #666;
-}
-#output {
-    width: 375px;
-    height: 375px;
-}
-</style>
-<script src="https://unpkg.com/@tensorflow/tfjs"></script>
- <script src="https://unpkg.com/@tensorflow-models/posenet"></script>
- </head>
-   
- <body>
- <!--Commenting Video code for use later-->
- 
-   
-   
- <video autoplay="true" id="videoElement" hidden>     
-       </video>
- <canvas id="output"> </canvas>
-   
- 
- <!--<img id='cat' src='./cat.jpg'/>-->
-   
- </body>
- <!--Commenting Video code for use later-->
-   <script>
-   var video = document.querySelector("#videoElement");
-  
-   if (navigator.mediaDevices.getUserMedia) {       
-       navigator.mediaDevices.getUserMedia({video: true})
-       .then(function(stream) {
-         video.srcObject = stream;
-       })
-       .catch(function(err0r) {
-       console.log("Something went wrong!");
-    });
-    } 
-  </script>
-   <script>
+
+<head>
+    <meta charset="utf-8">
+    <meta content="stuff, to, help, search, engines, not" name="keywords">
+    <meta content="What this page is about." name="description">
+    <meta content="Display Webcam Stream" name="title">
+    <title>Display Webcam Stream</title>
+
+    <style>
+        #container {
+            margin: 0px auto;
+            width: 375px;
+            height: 375px;
+            border: 10px #333 solid;
+        }
+
+        #videoElement {
+            width: 375px;
+            height: 375px;
+            background-color: #666;
+        }
+
+        #output {
+            width: 375px;
+            height: 375px;
+        }
+    </style>
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/posenet"></script>
+</head>
+
+<body>
+    <!--Commenting Video code for use later-->
+
+
+
+    <video autoplay="true" id="videoElement" hidden>
+    </video>
+    <canvas id="output"> </canvas>
+
+
+    <!--<img id='cat' src='./cat.jpg'/>-->
+
+</body>
+<!--Commenting Video code for use later-->
+<script>
+    var video = document.querySelector("#videoElement");
+
+    if (navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices.getUserMedia({
+                video: true
+            })
+            .then(function(stream) {
+                video.srcObject = stream;
+            })
+            .catch(function(err0r) {
+                console.log("Something went wrong!");
+            });
+    }
+</script>
+<script>
     var imageScaleFactor = 1.0;
     var flipHorizontal = false;
     var outputStride = 16;
     var maxPoseDetections = 2;
-     var poseresults;
- var canvas = document.getElementById('output');
-         var ctx = canvas.getContext('2d');
-posenet.load().then(function(net) {
+    var poseresults;
+    var canvas = document.getElementById('output');
+    var ctx = canvas.getContext('2d');
+    posenet.load().then(function(net) {
         // posenet model loaded
-  function recur(){
-    var imageElement = document.getElementById('videoElement');
-    imageElement.width = 375;
-    imageElement.height = 375;
-    net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride).then(function(pose){
-      
-      poseresults = pose;
-      ctx.drawImage(video, 0, 0, 375, 375);
-      for (var i = 0; i < 17; i++){
-         if (poseresults.keypoints[i].score > 0.5) {
-			 ctx.beginPath(); 
-         ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
-           
-          ctx.fillStyle = 'yellow'; 
-            ctx.fill();
-         ctx.font = "10px Arial";
-         ctx.fillText(poseresults.keypoints[i].part, poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y)
-		 }
-       }
-        var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
-       //console.log(adjKeyPoints);
-       adjKeyPoints.forEach((keypoints) => {
-        ctx.beginPath();
-        ctx.moveTo(keypoints[0].position.x, keypoints[0].position.y);
-        ctx.lineTo(keypoints[1].position.x, keypoints[1].position.y);
-        ctx.lineWidth = 5;
-        ctx.strokeStyle = 'red';
-        ctx.stroke();
-      })
-      
-    })
-     setTimeout(recur,1000); 
-   }
-    recur();
-      });
-   
-  </script>
+        function recur() {
+            var imageElement = document.getElementById('videoElement');
+            imageElement.width = 375;
+            imageElement.height = 375;
+            net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride).then(function(pose) {
 
- </html>
+                poseresults = pose;
+                ctx.drawImage(video, 0, 0, 375, 375);
+                for (var i = 0; i < 17; i++) {
+                    if (poseresults.keypoints[i].score > 0.5) {
+                        ctx.beginPath();
+                        ctx.arc(poseresults.keypoints[i].position.x, poseresults.keypoints[i].position.y, 2, 0, 2 * Math.PI);
+                        ctx.fillStyle = 'yellow';
+                        ctx.fill();
+                        ctx.font = "10px Arial";
+                        ctx.fillText(poseresults.keypoints[i].part, poseresults.keypoints[i].position.x, poseresults.keypoints[i].position.y)
+                    }
+                }
+                var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
+                //console.log(adjKeyPoints);
+                adjKeyPoints.forEach((keypoints) => {
+                    ctx.beginPath();
+                    ctx.moveTo(keypoints[0].position.x, keypoints[0].position.y);
+                    ctx.lineTo(keypoints[1].position.x, keypoints[1].position.y);
+                    ctx.lineWidth = 5;
+                    ctx.strokeStyle = 'red';
+                    ctx.stroke();
+                })
+
+            })
+            setTimeout(recur, 1000);
+        }
+        recur();
+    });
+</script>
+
+</html>
