@@ -21,6 +21,7 @@ Machine Learning Docs
     :maxdepth: 1
 
     algorithms
+    data_structures
     databases
     data_mining
     distributed_computing
