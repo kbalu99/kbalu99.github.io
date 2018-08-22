@@ -8,7 +8,7 @@ Machine Learning Docs
 
 .. toctree::
     :caption: Math
-    :maxdepth: 1
+    :maxdepth: 5
 
 	algebra
 	calculus
