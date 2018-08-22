@@ -10,20 +10,20 @@ Machine Learning Docs
     :caption: Math
     :maxdepth: 1
 
-algebra
-calculus
-complex_variables
-prob_stat
-advanced
+    algebra
+    calculus
+    complex_variables
+    prob_stat
+    advanced
 
 .. toctree::
     :caption: Computing
     :maxdepth: 1
 
-	algorithms
-	databases
-	data_mining
-	distributed_computing
+    algorithms
+    databases
+    data_mining
+    distributed_computing
 
 
 
