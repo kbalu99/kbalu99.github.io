@@ -25,6 +25,13 @@ Machine Learning Docs
     data_mining
     distributed_computing
 
+.. toctree::
+    :caption: Documentation Reference
+    :maxdepth: 1
+
+    doc
+
+
 
 
 
