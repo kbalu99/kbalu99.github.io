@@ -8,13 +8,13 @@ Machine Learning Docs
 
 .. toctree::
     :caption: Math
-    :maxdepth: 5
+    :maxdepth: 1
 
-	algebra
-	calculus
-	complex_variables
-	prob_stat
-	advanced
+algebra
+calculus
+complex_variables
+prob_stat
+advanced
 
 .. toctree::
     :caption: Computing
