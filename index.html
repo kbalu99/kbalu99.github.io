@@ -62,8 +62,9 @@
      var poseresults;
  var canvas = document.getElementById('output');
          var ctx = canvas.getContext('2d');
-    const net = await posenet.load();
-    function recur(){
+posenet.load().then(function(net) {
+        // posenet model loaded
+  function recur(){
     var imageElement = document.getElementById('videoElement');
     imageElement.width = 375;
     imageElement.height = 375;
@@ -95,6 +96,8 @@
      setTimeout(recur,1000); 
    }
     recur();
+      });
+   
   </script>
 
  </html>
