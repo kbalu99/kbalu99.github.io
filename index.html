@@ -85,7 +85,16 @@ var canvas = document.getElementById('output');
       }
       
     })
-    setTimeout(recur,3000); 
+     var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
+     adjKeyPoints.forEach((keypoints) => {
+       ctx.beginPath();
+       ctx.moveTo(keypoints[0].position.x, keypoints[0].position.y);
+       ctx.lineTo(keypoints[1].position.x, keypoints[1].position.y);
+       ctx.lineWidth = 5;
+       ctx.strokeStyle = 'aqua';
+       ctx.stroke();
+     })
+    setTimeout(recur,5000); 
    }
     recur();
   </script>
