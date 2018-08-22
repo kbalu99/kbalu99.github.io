@@ -91,10 +91,10 @@ var canvas = document.getElementById('output');
        ctx.moveTo(keypoints[0].position.x, keypoints[0].position.y);
        ctx.lineTo(keypoints[1].position.x, keypoints[1].position.y);
        ctx.lineWidth = 5;
-       ctx.strokeStyle = 'aqua';
+       ctx.strokeStyle = 'pink';
        ctx.stroke();
      })
-    setTimeout(recur,5000); 
+    setTimeout(recur,15000); 
    }
     recur();
   </script>
