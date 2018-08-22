@@ -61,7 +61,7 @@
     var canvas = document.getElementById('output');
     var ctx = canvas.getContext('2d');
     
-    var imageElement = document.getElementById('videoElement');
+    var imageElement = document.getElementById('cat');
 
     posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
