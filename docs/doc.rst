@@ -6,13 +6,12 @@ Documentation References
 
 .. contents:: :local:
 
-
 .. raw:: html
-   <div id="icon" url(&quot;chrome://favicon/size/16@2x/https://docs.python.org/3.6/reference/index.html#reference-index&quot;) 2x);"></div
-
-
-
+   
+   <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html"> Python STD library - https://docs.python.org/3.6/library/index.html
+   <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html#reference-index"> Python Language reference - https://docs.python.org/3.6/reference/index.html#reference-index
+   
 .. rubric:: References
 
-.. [1] Python STD library - https://docs.python.org/3.6/library/index.html
+.. [1] Python STD library - 
 .. [2] Python Language reference - https://docs.python.org/3.6/reference/index.html#reference-index
