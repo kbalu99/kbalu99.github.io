@@ -57,16 +57,17 @@
   </script>
 
   <script>
-                var imageScaleFactor = 0.5;
-    var flipHorizontal = false;
-    var outputStride = 16;
-    var maxPoseDetections = 2;
-    var poseresults;
+                
 var canvas = document.getElementById('output');
         var ctx = canvas.getContext('2d');
 
 
    function recur(){
+    var imageScaleFactor = 0.5;
+    var flipHorizontal = false;
+    var outputStride = 16;
+    var maxPoseDetections = 2;
+    var poseresults;
     var imageElement = document.getElementById('videoElement');
     imageElement.width = 540;
     imageElement.height = 540;
