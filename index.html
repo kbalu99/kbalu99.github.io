@@ -9,18 +9,18 @@
 <style>
 #container {
     margin: 0px auto;
-    width: 375px;
-    height: 375px;
+    width: 475px;
+    height: 475px;
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 375px;
-    height: 375px;
+    width: 475px;
+    height: 475px;
     background-color: #666;
 }
 #output {
-    width: 375px;
-    height: 375px;
+    width: 475px;
+    height: 475px;
 }
 </style>
 <script src="https://unpkg.com/@tensorflow/tfjs"></script>
@@ -65,14 +65,14 @@
  
     function recur(){
     var imageElement = document.getElementById('videoElement');
-    imageElement.width = 375;
-    imageElement.height = 375;
+    imageElement.width = 475;
+    imageElement.height = 475;
      posenet.load().then(function(net){
       return net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride)
     }).then(function(pose){
       
       poseresults = pose;
-      ctx.drawImage(video, 0, 0, 375, 375);
+      ctx.drawImage(video, 0, 0, 475, 475);
       for (var i = 0; i < 17; i++){
           ctx.beginPath(); 
          ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
