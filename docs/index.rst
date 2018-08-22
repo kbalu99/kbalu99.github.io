@@ -10,21 +10,21 @@ Machine Learning Docs
     :caption: Math
     :maxdepth: 1
 
-    linear_algebra
+    algebra
 	calculus
-    Probability (TODO) <probability>
-    Statistics (TODO) <statistics>
-    math_notation
+	complex_variables
+	prob_stat
+	advanced
 	
 .. toctree::
-    :caption: Computer Science Basics
+    :caption: Computing
     :maxdepth: 1
 
     algorithms
-	calculus
-    Probability (TODO) <probability>
-    Statistics (TODO) <statistics>
-    math_notation
+	databases
+	data_mining
+	distributed_computing
+
 
 
 

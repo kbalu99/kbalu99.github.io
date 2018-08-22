@@ -1,0 +1,7 @@
+.. advanced:
+
+==============
+Advanced
+==============
+
+.. contents:: :local:
