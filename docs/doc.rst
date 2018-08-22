@@ -8,5 +8,5 @@ Documentation References
 
 .. rubric:: References
 
-.. Python STD library - https://docs.python.org/3.6/library/index.html
-.. Python Language reference - https://docs.python.org/3.6/reference/index.html#reference-index
+.. [1] Python STD library - https://docs.python.org/3.6/library/index.html
+.. [2] Python Language reference - https://docs.python.org/3.6/reference/index.html#reference-index
