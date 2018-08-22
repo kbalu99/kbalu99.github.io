@@ -9,18 +9,18 @@
 <style>
 #container {
     margin: 0px auto;
-    width: 720px;
-    height: 720px;
+    width: 375px;
+    height: 375px;
     border: 10px #333 solid;
 }
 #videoElement {
-    width: 720px;
-    height: 720px;
+    width: 375px;
+    height: 375px;
     background-color: #666;
 }
 #output {
-    width: 720px;
-    height: 720px;
+    width: 375px;
+    height: 375px;
 }
 </style>
 <script src="https://unpkg.com/@tensorflow/tfjs"></script>
@@ -66,22 +66,24 @@ posenet.load().then(function(net) {
         // posenet model loaded
   function recur(){
     var imageElement = document.getElementById('videoElement');
-    imageElement.width = 720;
-    imageElement.height = 720;
+    imageElement.width = 375;
+    imageElement.height = 375;
     net.estimateSinglePose(imageElement, imageScaleFactor, flipHorizontal, outputStride).then(function(pose){
       
       poseresults = pose;
-      ctx.drawImage(video, 0, 0, 720, 720);
+      ctx.drawImage(video, 0, 0, 375, 375);
       for (var i = 0; i < 17; i++){
-          ctx.beginPath(); 
+         if (poseresults.keypoints[i].score > 0.5) {
+			 ctx.beginPath(); 
          ctx.arc(poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y,2, 0, 2 * Math.PI); 
            
           ctx.fillStyle = 'yellow'; 
             ctx.fill();
          ctx.font = "10px Arial";
          ctx.fillText(poseresults.keypoints[i].part, poseresults.keypoints[i].position.x,poseresults.keypoints[i].position.y)
+		 }
        }
-        var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.3);
+        var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
        //console.log(adjKeyPoints);
        adjKeyPoints.forEach((keypoints) => {
         ctx.beginPath();
