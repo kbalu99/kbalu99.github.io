@@ -83,7 +83,7 @@ var canvas = document.getElementById('output');
          ctx.fillStyle = 'yellow'; 
            ctx.fill();
       }
-       var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.5);
+       var adjKeyPoints = posenet.getAdjacentKeyPoints(poseresults.keypoints, 0.3);
       console.log(adjKeyPoints);
       adjKeyPoints.forEach((keypoints) => {
        ctx.beginPath();
