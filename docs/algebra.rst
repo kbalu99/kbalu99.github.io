@@ -55,10 +55,11 @@ Higher Algebra
 Abstract Algebra
 ==============
 
-.. rubric:: Harvard OCW
+.. rubric:: Harvard
 
 .. raw:: html
-   
+
+   <img src="https://www.google.com/s2/favicons?domain=http://www.math.harvard.edu/~elkies/M55a.17/index.html" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M55a.17/index.html">&nbsp;&nbsp;MATH55 - Harvard</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra" style="position:relative;top:10px"><a href="https://www.extension.harvard.edu/open-learning-initiative/abstract-algebra">&nbsp;&nbsp;MATH122 - Harvard extension school</a><br>
 
 .. rubric:: Books
