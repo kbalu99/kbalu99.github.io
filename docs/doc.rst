@@ -37,7 +37,7 @@ SQL / PL-SQL
 ==============
 
 .. rubric:: Other things to track
-    Graph Databases
+    Graph Database
     Docker
     Kubernetes
     Tensorflow
@@ -45,8 +45,5 @@ SQL / PL-SQL
     CUDA
     C++
     LaTeX
-    
+    Unix/Linux Shell
 
-   
-   
-   
