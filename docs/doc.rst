@@ -37,21 +37,15 @@ SQL / PL-SQL
 ==============
 
 .. rubric:: Other things to track
-    Graph Database
 
-    Docker
-
-    Kubernetes
-
-    Tensorflow
-
-    Tensorflow Serving
-
-    CUDA
-
-    C++
-
-    LaTeX
-    
-    Unix/Linux Shell
+.. raw:: html
+    <body>Graph Database<br>
+    Docker<br>
+    Kubernetes<br>
+    Tensorflow<br>
+    Tensorflow Serving<br>
+    CUDA<br>
+    C++<br>
+    LaTeX<br>
+    Unix/Linux Shell<br></body>
 
