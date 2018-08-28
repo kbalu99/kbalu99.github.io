@@ -38,12 +38,20 @@ SQL / PL-SQL
 
 .. rubric:: Other things to track
     Graph Database
+
     Docker
+
     Kubernetes
+
     Tensorflow
+
     Tensorflow Serving
+
     CUDA
+
     C++
+
     LaTeX
+    
     Unix/Linux Shell
 
