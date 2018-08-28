@@ -31,6 +31,22 @@ SQL / PL-SQL
 ==============
 
 .. rubric:: Data Analysis / Data Visualization
+
+
+SQL / PL-SQL
+==============
+
+.. rubric:: Other things to track
+    Graph Databases
+    Docker
+    Kubernetes
+    Tensorflow
+    Tensorflow Serving
+    CUDA
+    C++
+    LaTeX
+    
+
    
    
    
