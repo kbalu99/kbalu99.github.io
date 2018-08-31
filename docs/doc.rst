@@ -32,8 +32,11 @@ SQL / PL-SQL
 
 .. rubric:: Data Analysis / Data Visualization
 
+.. [1]
 
-SQL / PL-SQL
+
+
+Others
 ==============
 
 .. rubric:: Other things to track
@@ -42,3 +45,13 @@ SQL / PL-SQL
 
     Graph Database<br>Docker<br>Kubernetes<br>Tensorflow<br>Tensorflow Serving<br>CUDA<br>C++<br>LaTeX<br>Unix/Linux Shell<br>
 
+
+Software
+==============
+
+.. rubric:: Other things to track
+
+.. raw:: html
+
+    Visual Studio Code<br>Git<br>Git Desktop<br>Docker<br>SourceTree<br>Angular Console<br>NodeJS<br>NPM<br>
+    CMake<br>MinGW<br>RStudio<br>Anaconda<br>PyCharm<br>Notepad++<br>Handbrake<br>Visual Studio<br>7-zip<br>
