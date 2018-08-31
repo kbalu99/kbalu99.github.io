@@ -49,9 +49,48 @@ Others
 Software
 ==============
 
-.. rubric:: Other things to track
+.. rubric:: Web development
 
 .. raw:: html
 
-    Visual Studio Code<br>Git<br>Git Desktop<br>Docker<br>SourceTree<br>Angular Console<br>NodeJS<br>NPM<br>
-    CMake<br>MinGW<br>RStudio<br>Anaconda<br>PyCharm<br>Notepad++<br>Handbrake<br>Visual Studio<br>7-zip<br>
+    Git
+    Git Desktop (includes Git Bash, Git GUI)
+    SourceTree
+    NPM and Node
+    @angular-cli
+    webpack/cli, karma/cli, protractor, bootstrap, ng-bootstrap, font awesome, source-map-explorer, web driver
+    Augury (chrome extension)
+    Angular Console
+    Visual Studio Code
+
+.. rubric:: Machine Learning
+
+.. raw:: html
+
+    Anaconda distribution
+    R 
+    PyCharm
+    RStudio
+    CMake  (C++ compilers/build)
+    MinGW64 (C++ compilers/build)
+    Darknet (YOLO,
+
+
+.. rubric:: Utilities
+
+.. raw:: html
+
+    7-Zip
+    Notepad++
+    Git
+    SourceTree
+    Docker
+    Java (JRE, SDK)
+    Sublime Text
+    Vim editor
+    Visual Studio (for compiling)
+    Handbrake
+    
+
+
+
