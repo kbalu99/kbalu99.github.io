@@ -61,7 +61,9 @@ Software
     webpack/cli, karma/cli, protractor, bootstrap, ng-bootstrap, font awesome, source-map-explorer, web driver<br>
     Augury (chrome extension)<br>
     Angular Console<br>
-    Visual Studio Code<br><br>
+    Visual Studio Code<br>
+    Postman <br>
+    <br>
 
 .. rubric:: Machine Learning
 
@@ -69,11 +71,26 @@ Software
 
     Anaconda distribution<br>
     R <br>
+    Jupyter notebook<br>
+    Spyder<br>
     PyCharm<br>
     RStudio<br>
     CMake  (C++ compilers/build)<br>
     MinGW64 (C++ compilers/build)<br>
-    Darknet (YOLO,<br><br>
+    Darknet (YOLO,<br>
+    Darkflow<br>
+    Tensorflow<br>
+    TensorflowJS<br>
+    Keras<br>
+    OpenCV<br><br>
+
+.. rubric:: Distributed Computing
+
+.. raw:: html
+
+    Hadoop (Cloudera)<br>
+    Apache Spark<br>
+    <br>
 
 
 .. rubric:: Utilities
@@ -82,6 +99,7 @@ Software
 
     7-Zip<br>
     Notepad++<br>
+    Cmder<br>
     Git<br>
     SourceTree<br>
     Docker<br>
@@ -89,7 +107,9 @@ Software
     Sublime Text<br>
     Vim editor<br>
     Visual Studio (for compiling)<br>
-    Handbrake<br><br>
+    Handbrake<br>
+    Powershell<br>
+    <br>
 
 
 
