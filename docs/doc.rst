@@ -61,7 +61,7 @@ Software
     webpack/cli, karma/cli, protractor, bootstrap, ng-bootstrap, font awesome, source-map-explorer, web driver<br>
     Augury (chrome extension)<br>
     Angular Console<br>
-    Visual Studio Code<br>
+    Visual Studio Code<br><br>
 
 .. rubric:: Machine Learning
 
@@ -73,7 +73,7 @@ Software
     RStudio<br>
     CMake  (C++ compilers/build)<br>
     MinGW64 (C++ compilers/build)<br>
-    Darknet (YOLO,<br>
+    Darknet (YOLO,<br><br>
 
 
 .. rubric:: Utilities
@@ -89,7 +89,7 @@ Software
     Sublime Text<br>
     Vim editor<br>
     Visual Studio (for compiling)<br>
-    Handbrake<br>
+    Handbrake<br><br>
 
 
 
