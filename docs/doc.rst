@@ -53,44 +53,44 @@ Software
 
 .. raw:: html
 
-    Git
-    Git Desktop (includes Git Bash, Git GUI)
-    SourceTree
-    NPM and Node
-    @angular-cli
-    webpack/cli, karma/cli, protractor, bootstrap, ng-bootstrap, font awesome, source-map-explorer, web driver
-    Augury (chrome extension)
-    Angular Console
-    Visual Studio Code
+    Git<br>
+    Git Desktop (includes Git Bash, Git GUI)<br>
+    SourceTree<br>
+    NPM and Node<br>
+    @angular-cli<br>
+    webpack/cli, karma/cli, protractor, bootstrap, ng-bootstrap, font awesome, source-map-explorer, web driver<br>
+    Augury (chrome extension)<br>
+    Angular Console<br>
+    Visual Studio Code<br>
 
 .. rubric:: Machine Learning
 
 .. raw:: html
 
-    Anaconda distribution
-    R 
-    PyCharm
-    RStudio
-    CMake  (C++ compilers/build)
-    MinGW64 (C++ compilers/build)
-    Darknet (YOLO,
+    Anaconda distribution<br>
+    R <br>
+    PyCharm<br>
+    RStudio<br>
+    CMake  (C++ compilers/build)<br>
+    MinGW64 (C++ compilers/build)<br>
+    Darknet (YOLO,<br>
 
 
 .. rubric:: Utilities
 
 .. raw:: html
 
-    7-Zip
-    Notepad++
-    Git
-    SourceTree
-    Docker
-    Java (JRE, SDK)
-    Sublime Text
-    Vim editor
-    Visual Studio (for compiling)
-    Handbrake
-    
+    7-Zip<br>
+    Notepad++<br>
+    Git<br>
+    SourceTree<br>
+    Docker<br>
+    Java (JRE, SDK)<br>
+    Sublime Text<br>
+    Vim editor<br>
+    Visual Studio (for compiling)<br>
+    Handbrake<br>
+
 
 
 
