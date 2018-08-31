@@ -39,5 +39,5 @@ SQL / PL-SQL
 .. rubric:: Other things to track
 
 .. raw:: html
-    <body>Graph Database<br>Docker<br>Kubernetes<br>Tensorflow<br>Tensorflow Serving<br>CUDA<br>C++<br>LaTeX<br>Unix/Linux Shell<br></body>
+    Graph Database<br>Docker<br>Kubernetes<br>Tensorflow<br>Tensorflow Serving<br>CUDA<br>C++<br>LaTeX<br>Unix/Linux Shell<br>
 
