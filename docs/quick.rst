@@ -13,6 +13,7 @@ Quick Reference
     algoquick
     mathquick
     neuralquick
+    dataquick
 
 
 
