@@ -32,6 +32,12 @@ Machine Learning Docs
 
     doc
 
+.. toctree::
+    :caption: Deep Learning
+    :maxdepth: 1
+
+    deep
+
 
 
 
