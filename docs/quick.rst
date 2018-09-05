@@ -5,10 +5,12 @@ Quick Reference
 ==============
 
 .. toctree::
-    :caption: Model Selection cheatsheets
+    :caption: Cheatsheets
     :maxdepth: 1
 
     pickmodel
+    bestpractices
+    algoquick
 
 
 

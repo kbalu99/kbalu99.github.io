@@ -6,8 +6,6 @@ Model Selection
 
 .. contents:: :local:
 
-.. rubric:: References
-
 ScikitLearn Cheatsheet
 ==============
 
