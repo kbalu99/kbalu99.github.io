@@ -11,6 +11,7 @@ Quick Reference
     pickmodel
     bestpractices
     algoquick
+    mathquick
 
 
 

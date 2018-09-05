@@ -6,7 +6,7 @@ Algorithms Quick Reference
 
 .. contents:: :local:
 
-SAS Cheatsheet
+SAS Algorithms reference
 ==============
 
 .. image:: SAS_Algo1.png

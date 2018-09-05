@@ -6,7 +6,7 @@ Best Practices
 
 .. contents:: :local:
 
-SAS Cheatsheet
+SAS Best Practices
 ==============
 
 .. image:: SAS_best.png
