@@ -43,7 +43,7 @@ Others
 
 .. raw:: html
 
-    Graph Database<br>Docker<br>Kubernetes<br>Tensorflow<br>Tensorflow Serving<br>CUDA<br>C++<br>LaTeX<br>Unix/Linux Shell<br>
+    Graph Database<br>Docker<br>Kubernetes<br>Tensorflow<br>Tensorflow Serving<br>CUDA<br>C++<br>LaTeX<br>Unix/Linux Shell<br><br>
 
 
 Software
