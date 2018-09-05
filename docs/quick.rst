@@ -12,6 +12,7 @@ Quick Reference
     bestpractices
     algoquick
     mathquick
+    neuralquick
 
 
 
