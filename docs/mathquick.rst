@@ -6,10 +6,8 @@ Math Quick Reference
 
 .. contents:: :local:
 
-Probablity reference
+Statistics 110
 ==============
-
-.. rubric:: Statistics 110
 
 .. image:: prob_stat110-01.png
 
@@ -32,7 +30,8 @@ Probablity reference
 .. image:: prob_stat110-10.png
 
 
-.. rubric:: Probablity Distributions
+Probablity Distributions
+==============
 
 .. image:: prob_dist-1.png
 
