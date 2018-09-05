@@ -4,21 +4,12 @@
 Quick Reference
 ==============
 
-.. contents:: :local:
+.. toctree::
+    :caption: Model Selection cheatsheets
+    :maxdepth: 1
 
-.. rubric:: References
+    pickmodel
 
-ScikitLearn Cheatsheet
-==============
 
-.. image:: scikit.png
 
-Azure Cheatsheet
-==============
 
-.. image:: azure.png
-
-Azure Cheatsheet
-==============
-
-.. image:: azure.jpg
