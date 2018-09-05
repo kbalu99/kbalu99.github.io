@@ -9,7 +9,7 @@ Math Quick Reference
 Probablity reference
 ==============
 
-.. image:: prob_stat110.pdf
+.. pdf:: prob_stat110.pdf
 
-.. image:: prob_dist.pdf
+.. pdf:: prob_dist.pdf
 
