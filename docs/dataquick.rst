@@ -21,3 +21,8 @@ Array Sorting Algorithms
 ==============
 
 .. image:: arrysort.png
+
+Big-O Poster
+==============
+
+.. image:: bigoposter.png
