@@ -33,6 +33,12 @@ Machine Learning Docs
     doc
 
 .. toctree::
+    :caption: Quick References
+    :maxdepth: 1
+
+    quick
+
+.. toctree::
     :caption: Deep Learning
     :maxdepth: 1
 
