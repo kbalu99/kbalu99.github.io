@@ -6,7 +6,7 @@ Stat Model Selection
 
 .. contents:: :local:
 
-Statistics Model Cheatsheet 
+table with measure
 ==============
 
 .. raw:: html
@@ -681,7 +681,7 @@ Statistics Model Cheatsheet
       </center>     
 
 
-Stat Model Cheatsheet  
+Table with sample code 
 ==============
 
 .. raw:: html
