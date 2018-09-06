@@ -14,6 +14,7 @@ Quick Reference
     mathquick
     neuralquick
     dataquick
+    statpickmodel
 
 - Architecting Machine Learning `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/architecting.pdf>`__
 - Super cheatsheet Machine Learning `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/super-cheatsheet-machine-learning.pdf>`__
