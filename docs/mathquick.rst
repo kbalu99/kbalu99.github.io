@@ -6,7 +6,7 @@ Math
 
 .. contents:: :local:
 
-Statistics 110
+Statistics 110 (Harvard)
 ==============
 
 .. image:: prob_stat110-01.png
@@ -37,3 +37,21 @@ Probablity Distributions
 
 .. image:: prob_dist-2.png
 
+Statistics (MIT)
+==============
+
+.. image:: prob_mit-1.png
+
+.. image:: prob_mit-2.png
+
+.. image:: prob_mit-3.png
+
+.. image:: prob_mit-4.png
+
+.. image:: prob_mit-5.png
+
+.. image:: prob_mit-6.png
+
+.. image:: prob_mit-7.png
+
+.. image:: prob_mit-8.png
