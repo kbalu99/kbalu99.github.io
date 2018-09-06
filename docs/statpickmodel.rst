@@ -770,7 +770,7 @@ Stat Model Cheatsheet
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/r/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-r/#wilc">R</a></td>
             </tr>
             <tr>
-               <th style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">categorical</th>
+               <td style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">categorical</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;">Chi-square test</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/#chisq">SAS</a></td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/stata/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-stata/#chisq">Stata</a></td>
@@ -919,7 +919,7 @@ Stat Model Cheatsheet
             </tr>
             <tr>
                <th style="border: 1px solid #ddd;padding: 6px 5px;" style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="4">1 or more interval IVs and/or 1 or more categorical IVs</th>
-               <th style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">interval &amp; normal</th>
+               <td style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">interval &amp; normal</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;">multiple regression</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/#multreg">SAS</a></td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/stata/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-stata/#multreg">Stata</a></td>
@@ -934,7 +934,7 @@ Stat Model Cheatsheet
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/r/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-r/#ancova">R</a></td>
             </tr>
             <tr>
-               <th style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">categorical</th>
+               <td style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="2">categorical</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;">multiple logistic regression</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/#logistic">SAS</a></td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/stata/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-stata/#logistic">Stata</a></td>
