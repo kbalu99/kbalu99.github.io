@@ -918,7 +918,7 @@ Stat Model Cheatsheet
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/r/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-r/#simplog">R</a></td>
             </tr>
             <tr>
-               <th rowspan="4">1 or more interval IVs and/or 1 or more categorical IVs</th>
+               <th style="border: 1px solid #ddd;padding: 6px 5px;" rowspan="4">1 or more interval IVs and/or 1 or more categorical IVs</th>
                <th rowspan="2">interval &amp; normal</th>
                <td style="border: 1px solid #ddd;padding: 6px 5px;">multiple regression</td>
                <td style="border: 1px solid #ddd;padding: 6px 5px;"><a href="https://stats.idre.ucla.edu/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/#multreg">SAS</a></td>
