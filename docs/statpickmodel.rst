@@ -14,7 +14,7 @@ Stat Model Cheatsheet  (from James Leeper "Choosing right Statistic")
         <center>
         <table width="100%" border="1" style="border-collapse: collapse" bordercolor="#111111" cellpadding="0" cellspacing="0">
             <tbody>
-              <tr bgcolor="#ff0000">
+              <tr bgcolor="#f00000">
                   <td align="middle">
                     <font size="+1" color="#000000">Number</font> 
                     <center>
