@@ -9,18 +9,6 @@ Stat Model Selection
 Stat Model Cheatsheet  (from James Leeper "Choosing right Statistic")
 ==============
 
-+------------+------------+-----------+ 
-| Header 1   | Header 2   | Header 3  | 
-+============+============+===========+ 
-| body row 1 | column 2   | column 3  | 
-+------------+------------+-----------+ 
-| body row 2 | Cells may span columns.| 
-+------------+------------+-----------+ 
-| body row 3 | Cells may  | - Cells   | 
-+------------+ span rows. | - contain | 
-| body row 4 |            | - blocks. | 
-+------------+------------+-----------+
-
 .. raw:: html
 
    <article class="post-882 page type-page status-publish entry" itemscope="" itemtype="https://schema.org/CreativeWork">
