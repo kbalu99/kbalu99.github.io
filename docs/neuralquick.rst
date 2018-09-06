@@ -1,7 +1,7 @@
 .. _neuralquick:
 
 ==============
-Neural Networks Quick Reference
+Neural Networks
 ==============
 
 .. contents:: :local:

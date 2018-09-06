@@ -1,7 +1,7 @@
 .. _mathquick:
 
 ==============
-Math Quick Reference
+Math
 ==============
 
 .. contents:: :local:

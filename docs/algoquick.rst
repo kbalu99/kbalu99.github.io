@@ -1,7 +1,7 @@
 .. _algoquick:
 
 ==============
-Algorithms Quick Reference
+Algorithms
 ==============
 
 .. contents:: :local:

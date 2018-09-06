@@ -1,7 +1,7 @@
 .. _dataquick:
 
 ==============
-Data Structures Quick Reference
+Data Structures
 ==============
 
 .. contents:: :local:
