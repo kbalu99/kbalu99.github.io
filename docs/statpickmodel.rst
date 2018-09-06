@@ -685,6 +685,7 @@ Stat Model Cheatsheet
 ==============
 
 .. raw:: html
+
    <article class="post-882 page type-page status-publish entry" itemscope="" itemtype="https://schema.org/CreativeWork">
    <header class="entry-header">
       <h1 class="entry-title" itemprop="headline">Choosing the Correct Statistical Test in SAS, Stata, SPSS and R</h1>
