@@ -6,7 +6,7 @@ Stat Model Selection
 
 .. contents:: :local:
 
-Stat Model Cheatsheet 
+Statistics Model Cheatsheet 
 ==============
 
 .. raw:: html
@@ -729,7 +729,7 @@ Stat Model Cheatsheet
                <td><a href="https://stats.idre.ucla.edu/r/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-r/#1sampt">R</a></td>
             </tr>
             <tr>
-               <td>ordinal or interval</td>
+               <td  style="border: 1px solid #ddd;padding: 6px 5px;">ordinal or interval</td>
                <td>one-sample median</td>
                <td><a href="https://stats.idre.ucla.edu/sas/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-sas/#1sampm">SAS</a></td>
                <td><a href="https://stats.idre.ucla.edu/stata/whatstat/what-statistical-analysis-should-i-usestatistical-analyses-using-stata/#1sampm">Stata</a></td>
