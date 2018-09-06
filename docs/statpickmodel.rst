@@ -340,8 +340,8 @@ Stat Model Cheatsheet  (from James Leeper "Choosing right Statistic")
       </p>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-   </div>
-</article> 
+    </div>
+    </article> 
 
 
 
