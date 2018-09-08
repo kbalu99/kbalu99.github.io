@@ -44,6 +44,17 @@ Machine Learning Docs
 
     deep
 
+.. toctree::
+    :caption: Other Links
+    :maxdepth: 1
+
+.. raw::html
+   https://github.com/kbalu99
+   https://kbalu99.githubio/minst-cnn
+   https://www.kaggle.com/kbalu99
+
+
+
 
 
 
