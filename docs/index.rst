@@ -48,6 +48,8 @@ Machine Learning Docs
     :caption: Other Links
     :maxdepth: 1
 
+.. rubric:: Other Links
+
 .. raw::html
    https://github.com/kbalu99
    https://kbalu99.githubio/minst-cnn
