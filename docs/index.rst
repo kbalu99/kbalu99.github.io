@@ -14,7 +14,6 @@ Machine Learning Docs
     algebra
     prob_stat
     target
-    complex_variables
     advanced
 
 
