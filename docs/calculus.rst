@@ -11,6 +11,8 @@ Single Variable Calculus
 
 .. rubric:: Books
 
+- Calculus - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/calculus.pdf>`__
+
 .. raw:: html
 
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005">&nbsp;&nbsp;Calculus Textbook - Gilbert Strang</a><br>
