@@ -28,11 +28,6 @@ Single Variable Calculus
 Multi Variate Calculus
 ==============
 
-.. rubric:: Books
-
-.. raw:: html
-
-
 .. rubric:: Online
 
 .. raw:: html
@@ -46,11 +41,6 @@ Multi Variate Calculus
 Differential Equations 
 ==============
 
-.. rubric:: Books
-
-.. raw:: html
-
-
 .. rubric:: Online
 
 .. raw:: html
@@ -61,11 +51,6 @@ Differential Equations
 
 Supplemental Resources / Intuition 
 ==============
-
-.. rubric:: Books
-
-.. raw:: html
-
 
 .. rubric:: Online
 
