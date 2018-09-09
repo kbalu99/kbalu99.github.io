@@ -12,9 +12,11 @@ Machine Learning Docs
 
     calculus
     algebra
-    complex_variables
     prob_stat
+    target
+    complex_variables
     advanced
+
 
 .. toctree::
     :caption: Computing

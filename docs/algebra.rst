@@ -12,7 +12,7 @@ Introductory Algebra
 .. raw:: html
    
    <img src="https://www.google.com/s2/favicons?domain=https://docs.python.org/3.6/reference/index.html" style="position:relative;top:10px"><a href="https://docs.python.org/3.6/library/index.html">&nbsp;&nbsp;PYTHON Standard library</a><br>
-  
+
 
 Linear Algebra
 ==============
