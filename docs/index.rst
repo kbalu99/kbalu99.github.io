@@ -10,8 +10,8 @@ Machine Learning Docs
     :caption: Math
     :maxdepth: 1
 
-    algebra
     calculus
+    algebra
     complex_variables
     prob_stat
     advanced
