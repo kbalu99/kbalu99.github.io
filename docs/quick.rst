@@ -8,6 +8,7 @@ Quick Reference
     :caption: Cheatsheets
     :maxdepth: 1
 
+    coursequick
     pickmodel
     bestpractices
     algoquick
