@@ -11,10 +11,10 @@ Single Variable Calculus
 
 .. rubric:: Books
 
+.. raw:: html
+
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005">&nbsp;&nbsp;Calculus Textbook - Gilbert Strang</a><br>
 
-
-.. raw:: html
 
 
 .. rubric:: Online
@@ -22,7 +22,7 @@ Single Variable Calculus
 .. raw:: html
 
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/" style="position:relative;top:10px"><a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/">&nbsp;&nbsp;18.01SC Single Variable Calculus</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx"&nbsp;&nbsp;Paul Lamar's Notes - Calculus I</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx">&nbsp;&nbsp;Paul Lamar's Notes - Calculus I</a><br>
 
 
 Multi Variate Calculus
@@ -38,8 +38,8 @@ Multi Variate Calculus
 .. raw:: html
 
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010" style="position:relative;top:10px"><a href="https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010">&nbsp;&nbsp;18.02SC Multivariable Calculus</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx"&nbsp;&nbsp;Paul Lamar's Notes - Calculus II</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcII/CalcIII.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcII/CalcIII.aspx"&nbsp;&nbsp;Paul Lamar's Notes - Calculus III</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx">&nbsp;&nbsp;Paul Lamar's Notes - Calculus II</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=http://tutorial.math.lamar.edu/Classes/CalcII/CalcIII.aspx" style="position:relative;top:10px"><a href="http://tutorial.math.lamar.edu/Classes/CalcII/CalcIII.aspx">&nbsp;&nbsp;Paul Lamar's Notes - Calculus III</a><br>
 
 
 Differential Equations 
@@ -87,7 +87,7 @@ Supplemental Resources / Intuition
 .. rubric:: Online
 
 .. raw:: html
-   
+
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010">&nbsp;&nbsp;18.005 Highlights of calculus - Gilbert Strang</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010">&nbsp;&nbsp;18.006 Calculus Revisited - Single - Herbert Gross</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011">&nbsp;&nbsp;18.007 Calculus Revisted - Multi - Herbert Gross</a><br>
