@@ -25,7 +25,7 @@ Single Variable Calculus
 
 
 
-Multi Variate Calculus
+Multi Variable Calculus
 ==============
 
 .. rubric:: Online
