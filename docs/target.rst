@@ -11,7 +11,7 @@ Machine Learning
 
 .. rubric:: Book
 
-- Larry Wasserman - All of Statistics `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/larry-wasserman-all-of-statistics.pdf>`
+- Larry Wasserman - All of Statistics `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/larry-wasserman-all-of-statistics.pdf>`__
 
 
 .. rubric:: Online
