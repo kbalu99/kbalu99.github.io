@@ -50,10 +50,9 @@ Machine Learning Docs
 
 .. rubric:: Other Links
 
-.. raw:: html
-   <a href="https://github.com/kbalu99">
-   <a href="https://kbalu99.githubio/minst-cnn">
-   <a href="https://www.kaggle.com/kbalu99">
+- https://github.com/kbalu99
+- https://kbalu99.githubio/minst-cnn
+- https://www.kaggle.com/kbalu99
 
 
 
