@@ -95,7 +95,9 @@ Supplemental Resources / Intuition
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010">&nbsp;&nbsp;18.006 Calculus Revisited - Single - Herbert Gross</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-007-calculus-revisited-multivariable-calculus-fall-2011">&nbsp;&nbsp;18.007 Calculus Revisted - Multi - Herbert Gross</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-008-calculus-revisited-complex-variables-differential-equations-and-linear-algebra-fall-2011">&nbsp;&nbsp;18.008 Complex Variables and Differential Equations - Herbert Gross</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015" style="position:relative;top:10px"><a href="https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015">&nbsp;&nbsp;18.009 Learn Differential Equations up close - Gilbert Strang- Herbert Gross</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr">&nbsp;&nbsp;Essence of Calculus - youtube - 3Blue1Brown</a><br>
+   
 
 
 
@@ -106,9 +108,6 @@ Supplemental Resources / Intuition
 
 
 
-<img src="https://www.google.com/s2/favicons?domain=
-" style="position:relative;top:10px"><a href="
-">&nbsp;&nbsp;18.008 Complex Variables and Differential Equations - Herbert Gross</a><br>
 
 
 <img src="https://www.google.com/s2/favicons?domain=
