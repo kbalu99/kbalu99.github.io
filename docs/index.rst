@@ -51,8 +51,9 @@ Machine Learning Docs
 .. rubric:: Other Links
 
 - https://github.com/kbalu99
-- https://kbalu99.githubio/minst-cnn
+- https://kbalu99.github.io/minst-cnn
 - https://www.kaggle.com/kbalu99
+- https://www.linkedin.com/in/bala-kaliyaperumal/
 
 
 
