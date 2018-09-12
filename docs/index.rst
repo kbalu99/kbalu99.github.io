@@ -13,7 +13,6 @@ Machine Learning Docs
     calculus
     algebra
     prob_stat
-    target
     advanced
 
 
