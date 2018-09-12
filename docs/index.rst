@@ -28,6 +28,12 @@ Machine Learning Docs
     distributed_computing
 
 .. toctree::
+    :caption: Machine Learning
+    :maxdepth: 1
+
+    target
+
+.. toctree::
     :caption: Documentation Reference
     :maxdepth: 1
 
