@@ -29,7 +29,7 @@ Machine Learning
    
 
 
-Advanced Math
+Advanced
 ==============
 
 .. rubric:: Book
