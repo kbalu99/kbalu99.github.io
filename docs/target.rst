@@ -11,7 +11,7 @@ Machine Learning
 
 .. rubric:: Book
 
-- Machine Learning a Probablistic Perspective - Kevin Murphy `[pdf] <>`__
+- Machine Learning a Probablistic Perspective - Kevin Murphy `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/murphy.pdf>`__
 - Introduction to Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ISLR.pdf>`__
 - Larry Wasserman - All of Statistics `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/larry-wasserman-all-of-statistics.pdf>`__
 - Pattern recognition and machine learning - Bishop `[pdf] <>`__
