@@ -15,10 +15,10 @@ Machine Learning
 - Introduction to Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ISLR.pdf>`__
 - Larry Wasserman - All of Statistics `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/larry-wasserman-all-of-statistics.pdf>`__
 - Pattern recognition and machine learning - Bishop `[pdf] <>`__
-- Convex Optimization - Boyd `[pdf] [pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/boyd.pdf>`__
+- Convex Optimization - Boyd `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/boyd.pdf>`__
 
 
-- General Math `[pdf] [pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/general_cs_math.pdf>`__
+- General Math `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/general_cs_math.pdf>`__
 
 
 .. rubric:: Online

@@ -14,4 +14,4 @@ Deep Learning
 
 .. rubric:: Book
 
-- Deep Learning - Ian Goodfellow `[pdf] <>`__
+- Deep Learning - Ian Goodfellow `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/deep.pdf>`__
