@@ -38,19 +38,6 @@ Analysis
 
 .. rubric:: Online
 
-Combined
-==============
-
-.. rubric:: Online
-
-   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://bena-tshishiku.squarespace.com/math-25a/">&nbsp;&nbsp;MATH25a - Honors Linear Algebra and Real Analysis I - Harvard</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M25b.13/index.html">&nbsp;&nbsp;MATH25b - Honors Linear Algebra and Real Analysis II  - Harvard</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M55a.17/index.html">&nbsp;&nbsp;MATH55a - Honors Abstract Algebra - Harvard</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M55b.17/index.html">&nbsp;&nbsp;MATH55b - Honors Real and Complex Analysis - Harvard</a><br>
-   
-
-.. raw:: html
-
 
 Complex Variables
 ==============
@@ -58,6 +45,21 @@ Complex Variables
 .. rubric:: Online
 
 .. raw:: html
+
+
+Combined
+==============
+
+.. rubric:: Online
+
+.. raw:: html
+
+   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://bena-tshishiku.squarespace.com/math-25a/">&nbsp;&nbsp;MATH25a - Honors Linear Algebra and Real Analysis I - Harvard</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M25b.13/index.html">&nbsp;&nbsp;MATH25b - Honors Linear Algebra and Real Analysis II  - Harvard</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M55a.17/index.html">&nbsp;&nbsp;MATH55a - Honors Abstract Algebra - Harvard</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.harvard.edu/" style="position:relative;top:10px"><a href="http://www.math.harvard.edu/~elkies/M55b.17/index.html">&nbsp;&nbsp;MATH55b - Honors Real and Complex Analysis - Harvard</a><br>
+   
+
 
 
 Other Links 
