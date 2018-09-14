@@ -98,3 +98,4 @@ Other Links
 
 .. [1] How to become a pure Mathematician - http://hbpms.blogspot.com/
 .. [2] Data Science Masters - http://datasciencemasters.org/
+.. [3] https://honglangwang.wordpress.com/2014/12/30/machine-learning-books-suggested-by-michael-i-jordan-from-berkeley/
