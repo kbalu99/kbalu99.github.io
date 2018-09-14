@@ -10,7 +10,7 @@ Books
 ==============
 
 - Machine Learning a Probablistic Perspective - Kevin Murphy `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/murphy.pdf>`__
-- Pattern recognition and machine learning - Bishop `[pdf] <>`__
+- Pattern recognition and machine learning - Bishop `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/bishop.pdf>`__
 - Introduction to Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ISLR.pdf>`__
 - Elements of Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ESL.pdf>`__
 - Convex Optimization - Boyd `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/convex.pdf>`__
