@@ -33,7 +33,7 @@ Abstract Algebra
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5">&nbsp;&nbsp;Abstract Algebra - youtube - E222 - Harvard - Benedict Gross</a><br>
 
 
-Analysis
+Analysis (real/complex/functional)
 ==============
 
 .. rubric:: Online
@@ -46,6 +46,35 @@ Complex Variables
 
 .. raw:: html
 
+Statistics (frequentist v. bayesian)
+==============
+
+.. rubric:: Online
+
+.. raw:: html
+
+
+Probablity theory
+==============
+
+.. rubric:: Online
+
+.. raw:: html
+
+Optimization
+==============
+
+.. rubric:: Online
+
+.. raw:: html
+
+
+Information theory
+==============
+
+.. rubric:: Online
+
+.. raw:: html
 
 Combined
 ==============
