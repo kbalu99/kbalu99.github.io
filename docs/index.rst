@@ -13,6 +13,7 @@ Machine Learning Docs
     calculus
     algebra
     prob_stat
+    discrete_math
     advanced
 
 
