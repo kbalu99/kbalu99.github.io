@@ -6,12 +6,14 @@ Calculus
 
 .. contents:: :local:
 
+Books
+=============
+- Calculus - Spivak
+- Introduction to Pure mathematics - Hardy
+- Calculus - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/calculus.pdf>`__
+
 Single Variable Calculus
 ==============
-
-.. rubric:: Books
-
-- Calculus - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/calculus.pdf>`__
 
 .. raw:: html
 
