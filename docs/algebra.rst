@@ -10,7 +10,7 @@ Books
 ==============
 - Introduction to Linear Algebra - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Strang-Linear_Algebra.pdf>`__
 .. raw:: html
-
+	
 
 Linear Algebra
 ==============
@@ -24,3 +24,7 @@ Linear Algebra
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=ivP-6oicIWU&list=PLAFEC355DFEADC30C">&nbsp;&nbsp;Linear Algebra - youtube - PatrickJMT</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=nQv1v8zxXs0&list=PL6CFAC6134E64B29B">&nbsp;&nbsp;Linear Equations - youtube - PatrickJMT</a><br>
    <img src="https://www.google.com/s2/favicons?domain=http://patrickjmt.com/" style="position:relative;top:10px"><a href="http://patrickjmt.com/">&nbsp;&nbsp;PatrickJMT Website</a><br>
+
+
+Supplemental Resources / Intuition 
+==============
