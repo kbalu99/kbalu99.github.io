@@ -8,7 +8,9 @@ Algebra
 
 Books
 ==============
+- Linear Algebra - Shilov `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Shilov-Linear_Algebra.pdf>`__
 - Introduction to Linear Algebra - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Strang-Linear_Algebra.pdf>`__
+
 .. raw:: html
 	
 
