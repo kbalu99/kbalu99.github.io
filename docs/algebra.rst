@@ -6,24 +6,16 @@ Algebra
 
 .. contents:: :local:
 
-Introductory Algebra
+Books
 ==============
-
+- Introduction to Linear Algebra - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Strang-Linear_Algebra.pdf>`__
 .. raw:: html
-   
-   
 
 
 Linear Algebra
 ==============
 
-.. rubric:: Books
 
-- Introduction to Linear Algebra - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/lin-algebra-strang.pdf>`__
-
-
-
-.. rubric:: Online
 
 .. raw:: html
    
