@@ -8,9 +8,9 @@ Calculus
 
 Books
 =============
-- Calculus - Spivak
-- Introduction to Pure mathematics - Hardy
-- Calculus - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/calculus.pdf>`__
+- Calculus - Spivak `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Spivak-Calculus.pdf>`__
+- Introduction to Pure mathematics - Hardy `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Hardy_Calculus.pdf>`__
+- Calculus - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Strang_Calculus.pdf>`__
 
 Single Variable Calculus
 ==============
