@@ -6,6 +6,11 @@ Advanced
 
 .. contents:: :local:
 
+Books
+=============
+- Introductory Real Analysis - Kolmogorov A.N. and Fomin S.V. `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Kolmogorov-Analysis.pdf>`__
+- Principles of Mathematical Analysis - Baby Rudin `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Rudin-Analysis.pdf>`__
+
 Calculus   
 ==============
 
