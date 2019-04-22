@@ -9,7 +9,7 @@ Algebra
 Books
 ==============
 - Linear Algebra - Shilov `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Shilov-Linear_Algebra.pdf>`__
-- Linear Algebra Done Right - Sheldon Axler `[Site] <http://linear.axler.net/>` `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Sheldon-Axler-Linear_Algebra.pdf>`__
+- Linear Algebra Done Right - Sheldon Axler `[html] <http://linear.axler.net/>`  `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Sheldon-Axler-Linear_Algebra.pdf>`__
 - Introduction to Linear Algebra - Gilbert Strang `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Strang-Linear_Algebra.pdf>`__
 
 .. raw:: html
