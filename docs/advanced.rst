@@ -83,47 +83,61 @@ Graduate Books
 
 .. rubric:: Mathematical Physics
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Feynman Lectures On Physics - Feynman `[pdf] <>`__
 
 .. rubric:: Probablity Measure Theory
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Probability and Measure - Billingsley `[pdf] <>`__
+- A Course in Probability Theory - Chung `[pdf] <>`__
+- An Introduction to Probability Theory and Its Applications Vol. 2 - Feller `[pdf] <>`__
+- Foundations of Modern Probability - Kallenberg `[pdf] <>`__
+- Probability Theory I, II  - Loève `[pdf] <>`__
+- Probability - Shiryaev `[pdf] <>`__
 
 .. rubric:: Stochastic Processes
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Stochastic Processes - Doob `[pdf] <>`__
 
 .. rubric:: Statistics(Inference)
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Statistical Inference - Casella G. and Berger R.L. `[pdf] <>`__
+- Kendall's Advanced Theory of Statistics, Volume 1: Distribution Theory - Kendall M. Stuart A. and Ord J.K. `[pdf] <>`__
+- Theory of Point Estimation - Lehmann E.L. and Casella G. `[pdf] <>`__
+- Testing Statistical Hypotheses - Lehmann E.L. and Romano J.P. `[pdf] <>`__
 
 .. rubric:: Statistic Models and Regression
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Kendall's Advanced Theory of Statistics: Volume 2A -Classical Inference and and the Linear Model - Kendall M. Stuart A., Ord J.K. and Arnold S. `[pdf] <>`__
+- Applied Linear Statistical Models - Kutner M.K., Nachtsheim C.J., Neter J. and Li W. `[pdf] <>`__
 
 .. rubric:: Multivariate Analysis
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- An Introduction to Mulrivariate Statistical Analysis - Anderson T.W. `[pdf] <>`__
+- Applied Multivariate Statistical Analysis - Johnson R.A. and Wichern D.W. `[pdf] <>`__
 
 .. rubric:: Bayesian Statistics
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Bayesian Theory - Bernardo J.M. and Smith A.F.M. `[pdf] <>`__
+- Bayesian Data Analysis - Gelman A., Carlin J.B., Stern H.S. and Rubin D.B. `[pdf] <>`__
+- Kendall's Advanced Theory of Statistics: Volume 2B: Bayesian Inference - Kendall M. and O'Hagan A. `[pdf] <>`__
 
 .. rubric:: Categorical Data Analysis
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Categorical Data Analysis - Agresti `[pdf] <>`__
 
 .. rubric:: Statistics Methods in Epidemiology)
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Epidemiology: Study Design and Data Analysis - Woodward `[pdf] <>`__
+- Statistics for Epidemiology - Jewell `[pdf] <>`__
 
 .. rubric:: Longitudinal Data Analysis
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Analysis of Longitudinal Data - Diggle P., Heagerty P., Liang K.-Y. and Zeger S. `[pdf] <>`__
+- Applied Longitudinal Analysis - Fitzmaurice G.M., Laird N.M. and Ware J.H. `[pdf] <>`__
 
 .. rubric:: Survival Analysis
 
-- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+- Survival Analysis: A Self-Learning Text - Kleinbaum D.G. and Klein M `[pdf] <>`__
 
 
 
