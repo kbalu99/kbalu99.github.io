@@ -11,6 +11,7 @@ Books
 - Calculus - Spivak `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Spivak-Calculus.pdf>`__
 - Introduction to Pure mathematics - Hardy `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Hardy-Calculus.pdf>`__
 - Introduction to Calculus and Analysis - Courant R. and John F. `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Courant-Calculus.pdf>`__
+- Early Transcedentals - Stewart `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Stewart-Calculus.pdf>`__
 - Differential Equations - Simmons and Krantz `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Simmons-Krantz-Differential_Equations.pdf>`__
 
 Single Variable Calculus
