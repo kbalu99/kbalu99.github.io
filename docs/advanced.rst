@@ -181,43 +181,6 @@ Abstract Algebra
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5">&nbsp;&nbsp;Abstract Algebra - youtube - E222 - Harvard - Benedict Gross</a><br>
 
 
-Analysis (real/complex/functional)
-==============
-
-
-
-Complex Variables
-==============
-
-
-.. raw:: html
-
-Statistics (frequentist v. bayesian)
-==============
-
-
-.. raw:: html
-
-
-Probablity theory
-==============
-
-
-.. raw:: html
-
-Optimization
-==============
-
-
-.. raw:: html
-
-
-Information theory
-==============
-
-
-.. raw:: html
-
 Combined
 ==============
 
@@ -231,6 +194,19 @@ Combined
    
 
 
+Other Topics to cover
+==============
+Analysis (real/complex/functional)
+
+Complex Variables
+
+Statistics (frequentist v. bayesian)
+
+Probablity theory
+
+Optimization
+
+Information theory
 
 Other Links 
 ==============
