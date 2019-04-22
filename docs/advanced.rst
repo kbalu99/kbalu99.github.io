@@ -9,7 +9,6 @@ Advanced
 Calculus   
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
@@ -23,7 +22,6 @@ Calculus
 Abstract Algebra
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
@@ -36,20 +34,17 @@ Abstract Algebra
 Analysis (real/complex/functional)
 ==============
 
-.. rubric:: Online
 
 
 Complex Variables
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
 Statistics (frequentist v. bayesian)
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
@@ -57,14 +52,12 @@ Statistics (frequentist v. bayesian)
 Probablity theory
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
 Optimization
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
@@ -72,14 +65,12 @@ Optimization
 Information theory
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
 Combined
 ==============
 
-.. rubric:: Online
 
 .. raw:: html
 
