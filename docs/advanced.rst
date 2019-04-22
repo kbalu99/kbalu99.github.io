@@ -21,6 +21,108 @@ Books
 
 - Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
 
+.. rubric:: Graph Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Functional Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Real and Complex Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Fourier and Harmonic Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Algebra
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Groups and Lie Algebra
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Rings and Galois Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Commutative Algebra
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Homological Algebra
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Number Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Algebraic Number Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Class Field Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Analytical Number Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Partial Differential Equations
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Mathematical Physics
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Probablity Measure Theory
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Stochastic Processes
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Statistics(Inference)
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Statistic Models and Regression
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Multivariate Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Bayesian Statistics
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Categorical Data Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Statistics Methods in Epidemiology)
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Longitudinal Data Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+.. rubric:: Survival Analysis
+
+- Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
+
+
+
 Calculus   
 ==============
 
