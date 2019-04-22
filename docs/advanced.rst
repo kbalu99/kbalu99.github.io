@@ -13,6 +13,10 @@ Books
 - Algebra - Artin `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Artin-Algebra.pdf>`__
 - Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
 
+
+Graduate Books
+=============
+
 .. rubric:: Logic
 
 - Basic Algebra I - Jacobson `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/Jacobson-Algebra.pdf>`__
