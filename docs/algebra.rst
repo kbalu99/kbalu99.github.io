@@ -32,3 +32,7 @@ Linear Algebra
 
 Supplemental Resources / Intuition 
 ==============
+   <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL_w8oSr1JpVCZ5pKXHKz6PkjGCbPbSBYv">&nbsp;&nbsp;Essence of Linear Algebra - youtube - 3Blue1Brown</a><br>
+.. raw:: html
+   
+   <img src="https://www.google.com/s2/favicons?domain=https://betterexplained.com/articles/category/math/" style="position:relative;top:10px"><a href="https://betterexplained.com/articles/category/math/">&nbsp;&nbsp;Better Explained</a><br>

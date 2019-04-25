@@ -68,3 +68,5 @@ Supplemental Resources / Intuition
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=aw_VM_ZDeIo&list=PLD371506BCA23A437">&nbsp;&nbsp;Calculus II - youtube - PatrickJMT</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.youtube.com/" style="position:relative;top:10px"><a href="https://www.youtube.com/watch?v=odhAVmAahb4&list=PLF83D74BA4DE75897">&nbsp;&nbsp;Calculus III - youtube - PatrickJMT</a><br>
    <img src="https://www.google.com/s2/favicons?domain=http://patrickjmt.com/" style="position:relative;top:10px"><a href="http://patrickjmt.com/">&nbsp;&nbsp;PatrickJMT Website</a><br>
+
+   <img src="https://www.google.com/s2/favicons?domain=https://betterexplained.com/articles/category/math/" style="position:relative;top:10px"><a href="https://betterexplained.com/articles/category/math/">&nbsp;&nbsp;Better Explained</a><br>
