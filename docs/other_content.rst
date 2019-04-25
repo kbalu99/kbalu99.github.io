@@ -185,5 +185,3 @@ Podcasts
 Tutorials
 =========
 
-Be the first to `contribute! <https://github.com/bfortuner/ml-cheatsheet>`__
-
