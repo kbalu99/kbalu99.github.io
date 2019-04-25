@@ -54,6 +54,7 @@ Machine Learning Docs
     datasets
     libraries
     papers
+    content
 
 .. toctree::
     :caption: Other Links
