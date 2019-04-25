@@ -50,11 +50,12 @@ Machine Learning Docs
 .. toctree::
     :caption: Resources
     :maxdepth: 1
+    :titlesonly:
 
     datasets
     libraries
     papers
-    content
+    Other <other_content>
 
 .. toctree::
     :caption: Other Links
