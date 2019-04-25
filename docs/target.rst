@@ -14,7 +14,14 @@ Books
 - Introduction to Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ISLR.pdf>`__
 - Elements of Statistical Learning - Hastie and Tibshirani `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/ESL.pdf>`__
 - Larry Wasserman - All of Statistics `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/larry-wasserman-all-of-statistics.pdf>`__
-- General Math `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/general_cs_math.pdf>`__
+
+Advanced
+==============
+
+- Understanding Machine Learning: From Theory to Algorithms - Shai Ben David `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/shai.pdf>`__
+- High-Dimensional Probablity  - Vershynin `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/HDP.pdf>`__
+- Foundations of Data Science  - Blum/Hopcroft/Kannan `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/foundations.pdf>`__
+- Convex Optimization - Boyd `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/convex.pdf>`__
 
 
 Courses
@@ -53,10 +60,3 @@ MOOCs
 ==============
 
 
-Advanced
-==============
-
-- Understanding Machine Learning: From Theory to Algorithms - Shai Ben David `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/shai.pdf>`__
-- High-Dimensional Probablity  - Vershynin `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/HDP.pdf>`__
-- Foundations of Data Science  - Blum/Hopcroft/Kannan `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/foundations.pdf>`__
-- Convex Optimization - Boyd `[pdf] <https://github.com/kbalu99/kbalu99.github.io/blob/master/docs/_static/convex.pdf>`__
