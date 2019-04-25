@@ -6,6 +6,14 @@ Math
 
 .. contents:: :local:
 
+
+Probablity Distributions
+==============
+
+.. image:: prob_dist-1.png
+
+.. image:: prob_dist-2.png
+
 Statistics 110 (Harvard)
 ==============
 
@@ -30,12 +38,6 @@ Statistics 110 (Harvard)
 .. image:: prob_stat110-10.png
 
 
-Probablity Distributions
-==============
-
-.. image:: prob_dist-1.png
-
-.. image:: prob_dist-2.png
 
 Statistics (MIT)
 ==============
