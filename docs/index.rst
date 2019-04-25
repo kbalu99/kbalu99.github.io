@@ -62,3 +62,10 @@ Machine Learning Docs
 - https://kbalu99.github.io/minst-cnn
 - https://www.kaggle.com/kbalu99
 - https://www.linkedin.com/in/bala-kaliyaperumal/
+.. toctree::
+    :caption: Resources
+    :maxdepth: 1
+
+    datasets
+    libraries
+    papers
