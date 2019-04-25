@@ -26,6 +26,7 @@ Machine Learning Docs
     databases
     data_mining
     distributed_computing
+	tools
 
 .. toctree::
     :caption: Machine Learning
