@@ -34,16 +34,6 @@ Machine Learning Docs
 
     target
 
-.. toctree::
-    :caption: Documentation Reference
-    :maxdepth: 1
-
-    doc
-
-.. toctree::
-    :caption: Quick References
-    :maxdepth: 1
-
     quick
 
 .. toctree::
@@ -51,6 +41,24 @@ Machine Learning Docs
     :maxdepth: 1
 
     deep
+
+.. toctree::
+    :caption: Quick References
+    :maxdepth: 1
+
+.. toctree::
+    :caption: Documentation Reference
+    :maxdepth: 1
+
+    doc
+
+.. toctree::
+    :caption: Resources
+    :maxdepth: 1
+
+    datasets
+    libraries
+    papers
 
 .. toctree::
     :caption: Other Links
@@ -62,10 +70,3 @@ Machine Learning Docs
 - https://kbalu99.github.io/minst-cnn
 - https://www.kaggle.com/kbalu99
 - https://www.linkedin.com/in/bala-kaliyaperumal/
-.. toctree::
-    :caption: Resources
-    :maxdepth: 1
-
-    datasets
-    libraries
-    papers
