@@ -67,3 +67,4 @@ Machine Learning Docs
 - https://kbalu99.github.io/minst-cnn
 - https://www.kaggle.com/kbalu99
 - https://www.linkedin.com/in/bala-kaliyaperumal/
+- https://bookmarks.readthedocs.io/
