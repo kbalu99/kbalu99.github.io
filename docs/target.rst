@@ -59,4 +59,12 @@ Courses
 MOOCs
 ==============
 
+.. raw:: html
 
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp">&nbsp;&nbsp; UDEMY - Jose - Machine Learning</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/machinelearning" style="position:relative;top:10px"><a href="https://www.udemy.com/machinelearning">&nbsp;&nbsp; UDEMY - Erik - Machine Learning</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Erik - Data Science</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
+
+   
+   
