@@ -61,10 +61,11 @@ MOOCs
 
 .. raw:: html
 
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp">&nbsp;&nbsp; UDEMY - Jose - Machine Learning</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/machinelearning" style="position:relative;top:10px"><a href="https://www.udemy.com/machinelearning">&nbsp;&nbsp; UDEMY - Erik - Machine Learning</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp">&nbsp;&nbsp; UDEMY - Jose Portilla - Data Science/ML</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/complete-python-bootcamp/" style="position:relative;top:10px"><a href="https://www.udemy.com/complete-python-bootcamp/">&nbsp;&nbsp; UDEMY - Jose Portilla - Python</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/machinelearning" style="position:relative;top:10px"><a href="https://www.udemy.com/machinelearning">&nbsp;&nbsp; UDEMY - Kirill Eremenko - Machine Learning</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Erik - Data Science</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Kirill Eremenko - Data Science</a><br>
 
    
    <img src="https://www.google.com/s2/favicons?domain=https://www.coursera.org/learn/machine-learning" style="position:relative;top:10px"><a href="https://www.coursera.org/learn/machine-learning">&nbsp;&nbsp; COURSERA - Andrew Ng - Machine Learning</a><br>
