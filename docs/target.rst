@@ -64,11 +64,13 @@ MOOCs
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp">&nbsp;&nbsp; UDEMY - Jose Portilla - Data Science/ML</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/complete-python-bootcamp/" style="position:relative;top:10px"><a href="https://www.udemy.com/complete-python-bootcamp/">&nbsp;&nbsp; UDEMY - Jose Portilla - Python</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/machinelearning" style="position:relative;top:10px"><a href="https://www.udemy.com/machinelearning">&nbsp;&nbsp; UDEMY - Kirill Eremenko - Machine Learning</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Kirill Eremenko - Data Science</a><br>
-
-   
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.coursera.org/learn/machine-learning" style="position:relative;top:10px"><a href="https://www.coursera.org/learn/machine-learning">&nbsp;&nbsp; COURSERA - Andrew Ng - Machine Learning</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.coursera.org/specializations/deep-learning" style="position:relative;top:10px"><a href="https://www.coursera.org/specializations/deep-learning">&nbsp;&nbsp; COURSERA - Andrew Ng - Deep Learning</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://academy.microsoft.com/en-us/professional-program/tracks/" style="position:relative;top:10px"><a href="https://academy.microsoft.com/en-us/professional-program/tracks/">&nbsp;&nbsp; MICRSOFT - Data Science / AI</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://academy.microsoft.com/en-us/professional-program/tracks/" style="position:relative;top:10px"><a href="https://academy.microsoft.com/en-us/professional-program/tracks/">&nbsp;&nbsp; MICRSOFT - Data Science - AI</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://cloud.google.com/training/data-ml" style="position:relative;top:10px"><a href="https://cloud.google.com/training/data-ml">&nbsp;&nbsp; GOOGLE - Data Scienctist</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.fast.ai/" style="position:relative;top:10px"><a href="https://www.fast.ai/">&nbsp;&nbsp; FAST.Ai - ML-Deep Learning</a><br>
+
+   https://www.edx.org/micromasters/mitx-statistics-and-data-science
+   https://www.edx.org/professional-certificate/harvardx-data-science
