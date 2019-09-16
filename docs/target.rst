@@ -63,8 +63,11 @@ MOOCs
 
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp">&nbsp;&nbsp; UDEMY - Jose - Machine Learning</a><br>
    <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/machinelearning" style="position:relative;top:10px"><a href="https://www.udemy.com/machinelearning">&nbsp;&nbsp; UDEMY - Erik - Machine Learning</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Erik - Data Science</a><br>
-   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp" style="position:relative;top:10px"><a href="https://www.udemy.com/the-data-science-course-complete-data-science-bootcamp">&nbsp;&nbsp; UDEMY - Data Science Bootcamp</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com/datascience/" style="position:relative;top:10px"><a href="https://www.udemy.com/datascience/">&nbsp;&nbsp; UDEMY - Erik - Data Science</a><br>
 
    
-   
+   <img src="https://www.google.com/s2/favicons?domain=https://www.coursera.org/learn/machine-learning" style="position:relative;top:10px"><a href="https://www.coursera.org/learn/machine-learning">&nbsp;&nbsp; COURSERA - Andrew Ng - Machine Learning</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://www.coursera.org/specializations/deep-learning" style="position:relative;top:10px"><a href="https://www.coursera.org/specializations/deep-learning">&nbsp;&nbsp; COURSERA - Andrew Ng - Deep Learning</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://academy.microsoft.com/en-us/professional-program/tracks/" style="position:relative;top:10px"><a href="https://academy.microsoft.com/en-us/professional-program/tracks/">&nbsp;&nbsp; MICRSOFT - Data Science / AI</a><br>
+   <img src="https://www.google.com/s2/favicons?domain=https://cloud.google.com/training/data-ml" style="position:relative;top:10px"><a href="https://cloud.google.com/training/data-ml">&nbsp;&nbsp; GOOGLE - Data Scienctist</a><br>
